@@ -1,0 +1,184 @@
+{
+  "activities": [
+    {
+      "activity": "Make homemade ice cream",
+      "type": "cooking",
+      "participants": 1,
+      "price": 0.2,
+      "link": "",
+      "key": "3818400",
+      "accessibility": 0.2
+    },
+    {
+      "activity": "Learn Kotlin",
+      "type": "education",
+      "participants": 1,
+      "price": 0,
+      "link": "https://kotlinlang.org/",
+      "key": "3950821",
+      "accessibility": 0.8
+    },
+    {
+      "activity": "Take your dog on a walk",
+      "type": "relaxation",
+      "participants": 1,
+      "price": 0,
+      "link": "",
+      "key": "9318514",
+      "accessibility": 0.2
+    },
+    {
+      "activity": "Read a formal research paper on an interesting subject",
+      "type": "education",
+      "participants": 1,
+      "price": 0,
+      "link": "",
+      "key": "3352474",
+      "accessibility": 0.1
+    },
+    {
+      "activity": "Take a class at your local community center that interests you",
+      "type": "education",
+      "participants": 1,
+      "price": 0,
+      "link": "",
+      "key": "8750692",
+      "accessibility": 0.15
+    },
+    {
+      "activity": "Create a cookbook with your favorite recipes",
+      "type": "cooking",
+      "participants": 1,
+      "price": 0,
+      "link": "",
+      "key": "1947449",
+      "accessibility": 0.05
+    },
+    {
+      "activity": "Start a band",
+      "type": "music",
+      "participants": 4,
+      "price": 0.3,
+      "link": "",
+      "key": "5675880",
+      "accessibility": 0.8
+    },
+    {
+      "activity": "Learn how the internet works",
+      "type": "education",
+      "participants": 1,
+      "price": 0,
+      "link": "",
+      "key": "9414706",
+      "accessibility": 0.1
+    },
+    {
+      "activity": "Shop at support your local farmers market",
+      "type": "relaxation",
+      "participants": 1,
+      "price": 0.2,
+      "link": "",
+      "key": "8979931",
+      "accessibility": 0.1
+    },
+    {
+      "activity": "Take a virtual tour of a museum",
+      "type": "education",
+      "participants": 1,
+      "price": 0,
+      "link": "",
+      "key": "5960732",
+      "accessibility": 0.1
+    },
+    {
+      "activity": "Go on a hike",
+      "type": "recreational",
+      "participants": 1,
+      "price": 0.7,
+      "link": "",
+      "key": "5629310",
+      "accessibility": 0.2
+    },
+    {
+      "activity": "Learn to knit",
+      "type": "education",
+      "participants": 1,
+      "price": 1,
+      "link": "",
+      "key": "3581163",
+      "accessibility": 0.3
+    },
+    {
+      "activity": "Learn to play chess",
+      "type": "education",
+      "participants": 1,
+      "price": 0.5,
+      "link": "",
+      "key": "4268602",
+      "accessibility": 0.2
+    },
+    {
+      "activity": "Try a new coffee shop",
+      "type": "social",
+      "participants": 2,
+      "price": 2.75,
+      "link": "",
+      "key": "3796223",
+      "accessibility": 0.3
+    },
+    {
+      "activity": "Go for a run in the park",
+      "type": "recreational",
+      "participants": 1,
+      "price": 0,
+      "link": "",
+      "key": "5719445",
+      "accessibility": 0.1
+    },
+    {
+      "activity": "Bake your own bread",
+      "type": "cooking",
+      "participants": 1,
+      "price": 4.99,
+      "link": "",
+      "key": "8354138",
+      "accessibility": 0.4
+    },
+    {
+      "activity": "Learn a new language",
+      "type": "education",
+      "participants": 1,
+      "price": 15.99,
+      "link": "",
+      "key": "9423302",
+      "accessibility": 0.5
+    },
+    {
+      "activity": "Take a dance class",
+      "type": "music",
+      "participants": 2,
+      "price": 12.5,
+      "link": "",
+      "key": "3192456",
+      "accessibility": 0.4
+    },
+    {
+      "activity": "Volunteer at a local charity",
+      "type": "charity",
+      "participants": 5,
+      "price": 0,
+      "link": "",
+      "key": "7783995",
+      "accessibility": 0.3
+    },
+    {
+      "activity": "Visit a nearby town you've never been to before",
+      "type": "travel",
+      "participants": 2,
+      "price": 20.99,
+      "link": "",
+      "key": "1275601",
+      "accessibility": 0.6
+    }
+  ]
+}
